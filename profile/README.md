@@ -12,14 +12,21 @@
 The *App Fair Project* is an autonomous distribution network for native macOS and iOS applications. 
 It is made up of these facets:
 
- * **App Fair.app** A storefront app for macOS 12 that allows users to browse, download, and install apps from a variety of sources. For more information and to download the app visit: [appfair.app](https://appfair.app).
+ * **App Fair.app** A storefront app for macOS 12 that allows users to browse, download, and install apps from a variety of sources. For more information and to download the app visit: [appfair.app](https://appfair.app)
  * **appfair.net** An autonomous distribution network for free and open source desktop and mobile apps. Publishing an app is quick, automatic, and requires only a free GitHub account. For complete information visit: [appfair.net](https://appfair.net)
 
 ### Repositories
 
+The App Fair Project consists of a constellation of loosly-coupled repositories
+scattery across multiple organizations.
+
+The central components are:
+
 | Repo name | Brief description |
 | :--- | :--- |
-| [App](https://github.com/appfair/App) | The base repository from which all appfair.net apps are forked |
-| [App-Fair/App](https://github.com/App-Fair/App) | The source for the App Fair.app itself |
-| [discussions](https://github.com/appfair/discussions) | General discussions on the App Fair Project |
-| [appcasks](https://github.com/appfair/appcasks) | Base repository for customizing a Cask's presentation on the App Fair |
+| [appfair/App](https://github.com/appfair/App) | The base repository from which all appfair.net apps are forked |
+| [App-Fair/App](https://github.com/App-Fair/App) | The source for the App Fair.app itself (SwiftUI) |
+| [appfair/discussions](https://github.com/appfair/discussions) | General discussions on the App Fair Project |
+| [appfair/appcasks](https://github.com/appfair/appcasks) | Base repository for customizing a Cask's presentation on the App Fair |
+| [appfair/appfair.github.io](https://github.com/appfair/appfair.github.io) | Web site source and catalog generation workflows |
+| [fair-ground/Fair](https://github.com/fair-ground/Fair) | The “Fair” Swift Package used throughout the project |
