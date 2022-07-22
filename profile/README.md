@@ -3,10 +3,10 @@
 </p>
 <p align="center">
    <a href="https://discord.gg/ZrnGQP6p3d">
-    <img src="https://img.shields.io/discord/806142446094385153?color=7489d5&logo=discord&logoColor=ffffff" />
+    <img src="https://img.shields.io/discord/959553736450142268?color=7489d5&logo=discord&logoColor=ffffff" />
   </a>
-  <img src="https://img.shields.io/static/v1?label=Status&message=Development&color=blue">
-  <img src="https://img.shields.io/static/v1?label=License&message=AGPL+3.0&color=indigo">
+  <img src="https://img.shields.io/static/v1?label=Status&message=Development+(beta)&color=pink">
+  <img src="https://img.shields.io/static/v1?label=License&message=AGPL+3.0&color=aliceblue">
 </p>
 
 The *App Fair Project* is an autonomous distribution network for native macOS and iOS applications. 
