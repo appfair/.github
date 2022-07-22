@@ -18,7 +18,7 @@ It is made up of these facets:
 ### Repositories
 
 The App Fair Project consists of a constellation of loosly-coupled repositories
-associated with multiple organizations.
+across multiple organizations.
 
 The central components are:
 
