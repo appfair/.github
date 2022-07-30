@@ -2,12 +2,8 @@
 <a alt="Download the App Fair app for macOS 12" href="https://appfair.app"><img alt="The App Fair icon" align="center" style="height: 20vh;" src="https://appfair.net/appfair-icon.svg" /></a>
 </p>
 <p align="center">
-   <a href="https://discord.gg/ZrnGQP6p3d">
-    <img alt="Discord Server" src="https://img.shields.io/discord/959553736450142268?color=7489d5&logo=discord&logoColor=ffffff" />
-  </a>
-  <img alt="Status: Development" src="https://img.shields.io/static/v1?label=Status&message=Development+(beta)&color=violet">
-  <img alt="Weblate project translated" src="https://img.shields.io/weblate/progress/appfair?color=cyan">
-  <img alt="Licensed under the AGPL 3.0" src="https://img.shields.io/static/v1?label=License&message=AGPL+3.0&color=forestgreen">
+  <a alt="Visit Discord Channel" href="https://discord.gg/ZrnGQP6p3d"><img alt="Discord Server" src="https://img.shields.io/discord/959553736450142268?color=7489d5&logo=discord&logoColor=ffffff" /></a>
+  <a alt="AGPL 3.0" href="https://www.gnu.org/licenses/agpl-3.0.en.html"><img alt="Licensed under the AGPL 3.0" src="https://img.shields.io/static/v1?label=License&message=AGPL+3.0&color=forestgreen" /></a>
 </p>
 
 The *App Fair Project* is an autonomous distribution network for native macOS and iOS applications. 
